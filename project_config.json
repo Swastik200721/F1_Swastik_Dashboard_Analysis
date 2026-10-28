@@ -1,0 +1,13 @@
+{
+  "theme": {
+    "base": "light",
+    "primaryColor": "#d71920",
+    "backgroundColor": "#f1eee6",
+    "secondaryBackgroundColor": "#e4dfd3",
+    "textColor": "#171717",
+    "font": "sans serif"
+  },
+  "server": {
+    "headless": true
+  }
+}
